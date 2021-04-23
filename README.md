@@ -1,3 +1,8 @@
+<h3>#This repository was copied: https://github.com/TheSpeedX/TBomb.git</h3>
+
+<h2>For 100 sends (SMS) I get 3 sms</h2>
+
+
 <h1 align="center">
   <br>
   <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
@@ -66,7 +71,7 @@ To use the bomber type the following commands in Termux:
 pkg install git -y 
 pkg install python -y 
 git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
+cd bomber-1
 ./TBomb.sh
 ```
 
@@ -77,8 +82,8 @@ To use the application, type in the following commands in iSH.
 apk add git
 apk add python3
 apk add py3-pip
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
+git clone https://https://github.com/EternalB-1/bomber-1.git
+cd bomber-1
 pip3 install -r requirements.txt
 chmod +x TBomb.sh
 ./TBomb.sh
@@ -89,8 +94,8 @@ chmod +x TBomb.sh
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
+git clone https://https://github.com/EternalB-1/bomber-1.git
+cd bomber-1
 bash TBomb.sh
 ```
 
@@ -111,7 +116,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://https://github.com/EternalB-1/bomber-1.git
 cd TBomb
 ```
 
