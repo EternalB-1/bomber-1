@@ -1,6 +1,7 @@
 <h3>#This repository was copied: https://github.com/TheSpeedX/TBomb.git</h3>
 
-<h2>For 100 sends (SMS) I get 3 sms</h2>
+<h2>Out of 100 attempts, I received 3 SMS messages</h2>
+
 
 
 <h1 align="center">
